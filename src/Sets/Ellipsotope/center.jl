@@ -1,0 +1,1 @@
+center(E::Ellipsotope) = E.center

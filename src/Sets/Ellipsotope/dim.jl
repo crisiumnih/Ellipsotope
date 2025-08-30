@@ -1,0 +1,1 @@
+dim(E::Ellipsotope) = length(E.center)
